@@ -24,7 +24,7 @@ Beyond coding, I enjoy exploring new frameworks, learning modern development pra
 
 ### 📬 Connect With Me
 
--[LinkedIn](https://www.linkedin.com/in/s%C3%BCmeyye-saray-3607b7296/)  
+- [LinkedIn](https://www.linkedin.com/in/s%C3%BCmeyye-saray-3607b7296/)  
 - [Email](mailto:sumeyyesaray@posta.mu.edu.tr)
 
 Feel free to explore my projects and give your feedback. Let's create and grow together! 🚀
