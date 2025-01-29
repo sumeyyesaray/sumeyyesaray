@@ -18,7 +18,7 @@ Beyond coding, I enjoy exploring new frameworks, learning modern development pra
 
 - *Languages:* Python, Java, C
 - *Core Knowledge:* Algorithms, Data Structures, Object-Oriented Design
-- *Learning Path:* Backend Systems, RESTful APIs, Frameworks
+- *Learning Path:* Backend Systems, Frameworks
 
 ---
 
