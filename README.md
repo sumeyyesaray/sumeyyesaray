@@ -8,7 +8,7 @@ As a *Computer Engineering student*, I'm enthusiastic about uncovering the endle
 
 - 🧑‍💻 I’ve been diving deep into *Python* to explore its capabilities in solving complex algorithms and mastering data structures.
 - 🛠 With *Java*, I’ve built object-oriented projects to understand the power of clean and modular code.
-- 🔎 Currently, I’m working on small-scale projects to apply my knowledge and embrace new challenges in the tech world.
+-🔧 Currently, I’m working on small-scale projects to apply my knowledge and embrace new challenges in the tech world. I’m also expanding my expertise in C programming, Linux, and embedded systems, exploring how these technologies come together in the realm of hardware-software integration.
 
 Beyond coding, I enjoy exploring new frameworks, learning modern development practices, and challenging myself with innovative ideas. I’m always on the lookout for opportunities to collaborate and grow with like-minded people.
 
@@ -18,7 +18,7 @@ Beyond coding, I enjoy exploring new frameworks, learning modern development pra
 
 - *Languages:* Python, Java, C
 - *Core Knowledge:* Algorithms, Data Structures, Object-Oriented Design
-- *Learning Path:* Backend Systems, Frameworks
+- *Learning Path:* Backend Systems, Linux, C, Embedded Systems
 
 ---
 
